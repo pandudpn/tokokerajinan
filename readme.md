@@ -2,7 +2,7 @@
 Source code ini dibuat untuk skripsi saya dalam mengambil jenjang ***Strata 1*** saya, Pandu Dwi Putra Nugroho di Universitas Budiluhur Jakarta.
 
 ## Demo
-`http://www.tokokerajinan.id`
+`[tokokerajinan.id](http://www.tokokerajinan.id)`
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
